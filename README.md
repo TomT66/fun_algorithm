@@ -3,10 +3,9 @@ I met this problem during my work and I found it kinda interesting. The task is 
 and generalize to Argument(n).
 
 Argument is 4:
+
 11A; 12A; 21A; 22A
-
 11B; 12B; 21B; 22B
-
 11C; 12C; 21C; 22C
 11D; 12D; 21D; 22D
 13A; 14A; 23A; 24A
