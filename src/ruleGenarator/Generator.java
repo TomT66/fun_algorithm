@@ -25,5 +25,6 @@ public class Generator {
 	public static void main(String[] args) {
 		Generator test = new Generator();
 		System.out.print(test.ruleGenerator(9));
+		int i = 0;
 	}
 }
